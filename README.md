@@ -56,3 +56,4 @@ O desafio será avaliado através dos seguintes critérios.
 
 * Evitar o uso de framework PHP.
 * Não esquecer de commitar seu projeto em um repositório seu, e claro deixa-lo público para que possamos avaliar.
+* Ao finalizar, enviar o link do seu repositório para ismael@focomultimidia.com
